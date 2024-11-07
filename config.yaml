@@ -1,0 +1,875 @@
+keywords:
+  audio:
+    - audio
+    - speaker
+    - headset
+    - headphones
+    - earbuds
+    - sound
+    - music
+    - stereo
+    - bluetooth
+    - sony
+    - samsung
+    - phillips
+    - jbl
+    - Mobile
+    - Smartphone
+    - Phone
+    - Android
+    - iOS
+    - iPhone
+    - Samsung
+    - Xiaomi
+    - Motorola
+    - Huawei
+    - OnePlus
+    - Sony
+    - LG
+    - Nokia
+    - Google Pixel
+    - Oppo
+    - Vivo
+    - Realme
+    - HTC
+    - Asus
+    - Lenovo
+    - ZTE
+    - Blackberry
+    - Meizu
+    - Alcatel
+    - Panasonic
+    - Panacom
+    - TECNO
+    - Infinix
+    - Apple
+    - Redmi
+    - Honor
+    - Mi
+    - Note
+    - Pro
+    - Max
+    - Ultra
+    - Mini
+    - Lite
+    - 5G
+    - 4G
+    - 3G
+    - LTE
+    - Dual SIM
+    - Quad SIM
+    - Touchscreen
+    - Full Display
+    - AMOLED
+    - Retina
+    - Foldable
+    - Flip
+    - Snapdragon
+    - MediaTek
+    - Exynos
+    - Kirin
+    - Bionic
+    - Helio
+    - Octa-core
+    - Quad-core
+    - RAM
+    - ROM
+    - Storage
+    - Battery
+    - Fast Charging
+    - Wireless Charging
+    - Camera
+    - Dual Camera
+    - Triple Camera
+    - Quad Camera
+    - Selfie
+    - Front Camera
+    - Rear Camera
+    - Fingerprint
+    - Face ID
+    - Facial Recognition
+    - NFC
+    - Bluetooth
+    - Wi-Fi
+    - GPS
+    - Waterproof
+    - Dustproof
+    - Gorilla Glass
+    - Edge Display
+    - Infinity Display
+    - Notch
+    - Punch Hole
+    - Bezel-less
+    - USB-C
+    - Micro USB
+    - Lightning
+    - Headphone Jack
+    - Stereo Speakers
+    - Dolby Atmos
+    - AR
+    - VR
+    - AI
+    - Machine Learning
+    - App Store
+    - Google Play
+    - Play Store
+    - Update
+    - Upgrade
+    - Security Patch
+    - Developer Options
+    - Root
+    - Jailbreak
+    - Bootloader
+    - Custom ROM
+    - Stock ROM
+    - Recovery Mode
+    - Safe Mode
+    - OTA
+    - Firmware
+    - IMEI
+    - SIM Card
+    - eSIM
+    - Nano SIM
+    - Micro SIM
+    - Standard SIM
+    - Cellular
+    - Carrier
+    - Unlocked
+    - Locked
+    - Network
+    - Band
+    - Frequency
+    - Signal
+    - Reception
+    - Coverage
+    - Hotspot
+    - Tethering
+    - Data Plan
+    - Roaming
+    - VoLTE
+    - VoWiFi
+    - HD Voice
+    - MMS
+    - SMS
+    - RCS
+    - Call Quality
+    - Call Recording
+    - Voicemail
+    - Contacts
+    - Dialer
+    - Caller ID
+    - Call Blocker
+    - Spam Call
+    - Robocall
+    - Text Message
+    - Messaging App
+    - WhatsApp
+    - Telegram
+    - Signal
+    - WeChat
+    - Messenger
+    - Facebook
+    - Instagram
+    - Twitter
+    - Snapchat
+    - TikTok
+    - YouTube
+    - Netflix
+    - Streaming
+    - Download
+    - Upload
+    - Bandwidth
+    - Speed Test
+    - Benchmark
+    - Performance
+    - Efficiency
+    - Optimization
+    - Heat
+    - Overheating
+    - Cooling
+    - Thermal
+    - Throttle
+    - Processor
+    - Chipset
+    - GPU
+    - Display Resolution
+    - PPI
+    - Aspect Ratio
+    - Screen Size
+    - Weight
+    - Dimensions
+    - Build Quality
+    - Material
+    - Metal
+    - Plastic
+    - Glass
+    - Leather
+    - Ceramic
+    - Design
+    - Color
+    - Texture
+    - Finish
+    - Branding
+    - Logo
+    - Model
+    - Version
+    - Edition
+  phone:
+    - phone
+    - mobile
+    - cell
+    - smartphone
+    - tablet
+    - iphone
+    - samsung
+    - xiaomi
+    - motorola
+    - android
+    - Alcatel 1B
+    - Alcatel 1S
+    - Alcatel 3X
+    - Alcatel 5X
+    - Apple
+    - Huawei
+    - Huawei Mate 20 Pro
+    - Mate 20 Pro
+    - Huawei Mate 30 Pro
+    - Mate 30 Pro
+    - Huawei P30
+    - Huawei P30 Pro
+    - Huawei P40
+    - Huawei P40 Pro
+    - Huawei Y6p
+    - Y6p
+    - Huawei Y7a
+    - Y7a
+    - Huawei Y8p
+    - Y8p
+    - Huawei Y9s
+    - Y9s
+    - LG
+    - LG G8X ThinQ
+    - LG G8X ThinQ
+    - LG K22
+    - LG K42
+    - LG K52
+    - LG K62
+    - LG V60 ThinQ
+    - LG Velvet
+    - Motorola
+    - Motorola Moto E6s
+    - Moto E6s
+    - Motorola Moto E7
+    - Moto E7
+    - Motorola Moto G10
+    - Moto G10
+    - Motorola Moto G100
+    - Moto G100
+    - Motorola Moto G30
+    - Moto G30
+    - Motorola Moto G50
+    - Moto G50
+    - Motorola Moto G60
+    - Moto G60
+    - Motorola Moto One Fusion+
+    - Moto One Fusion+
+    - Motorola Moto One Hyper
+    - Moto One Hyper
+    - Nokia
+    - Nokia 1.4
+    - Nokia 2.4
+    - Nokia 3.4
+    - Nokia 5.4
+    - Oppo A15
+    - Oppo A54
+    - Oppo A74
+    - Oppo Reno 5
+    - Reno 5
+    - Other Brands
+    - Realme 6 Pro
+    - Realme 7
+    - Realme C3
+    - Realme Narzo 30
+    - Samsung Galaxy A12
+    - Galaxy A12, SM-A125
+    - Samsung Galaxy A32
+    - Galaxy A32, SM-A325
+    - Samsung Galaxy A52
+    - Galaxy A52, SM-A525
+    - Samsung Galaxy A72
+    - Galaxy A72, SM-A725
+    - Samsung Galaxy M11
+    - Galaxy M11, SM-M115
+    - Samsung Galaxy M21
+    - Galaxy M21, SM-M215
+    - Samsung Galaxy M31
+    - Galaxy M31, SM-M315
+    - Samsung Galaxy Note 20
+    - Galaxy Note 20, SM-N980
+    - Samsung Galaxy Note 20 Ultra
+    - Galaxy Note 20 Ultra, SM-N985
+    - Samsung Galaxy S20
+    - Galaxy S20, SM-G980
+    - Samsung Galaxy S20 Ultra
+    - Galaxy S20 Ultra, SM-G988
+    - Samsung Galaxy S20+
+    - Galaxy S20+, SM-G985
+    - Samsung Galaxy S21
+    - Galaxy S21, SM-G991
+    - Samsung Galaxy S21 Ultra
+    - Galaxy S21 Ultra, SM-G998
+    - Samsung Galaxy S21+
+    - Galaxy S21+, SM-G996
+    - Sony
+    - Sony Xperia 1 II
+    - Xperia 1 II
+    - Sony Xperia 10 II
+    - Xperia 10 II
+    - Sony Xperia 5 II
+    - Xperia 5 II
+    - Sony Xperia L4
+    - Xperia L4
+    - Xiaomi
+    - Xiaomi Mi 11
+    - Mi 11
+    - Xiaomi Mi 11 Lite
+    - Mi 11 Lite
+    - Xiaomi Poco M3
+    - Poco M3
+    - Xiaomi Poco X3
+    - Poco X3
+    - Xiaomi Redmi 9
+    - Redmi 9
+    - Xiaomi Redmi 9T
+    - Redmi 9T
+    - Xiaomi Redmi Note 10
+    - Redmi Note 10
+    - Xiaomi Redmi Note 10 Pro
+    - Redmi Note 10 Pro
+    - ZTE Blade A7s
+    - Blade A7s
+    - ZTE Blade V2020
+    - Blade V2020
+    - iPhone 11
+    - iPhone 11 Pro
+    - iPhone 11 Pro Max
+    - iPhone 12
+    - iPhone 12 Mini
+    - iPhone 12 Pro
+    - iPhone 12 Pro Max
+    - iPhone SE (2020)
+    - iPhone SE
+  Asistentes de Voz:
+    - Amazon Echo
+    - Echo
+    - Echo Dot
+    - Echo Plus
+    - Echo Show
+    - Echo Flex
+    - Echo Studio
+    - Google Nest Hub
+    - Nest Hub
+    - Nest Hub Max
+    - Google Home
+    - Google Home Mini
+    - Google Nest Mini
+    - Apple HomePod
+    - HomePod
+    - HomePod Mini
+  Termostatos Inteligentes:
+    - Nest Thermostat
+    - Nest Thermostat
+    - T3007ES
+    - E Thermostat
+    - Ecobee
+    - Ecobee3
+    - Ecobee4
+    - Ecobee SmartThermostat
+    - Honeywell Home
+    - Honeywell T9
+    - Lyric T5
+  Iluminación Inteligente:
+    - Philips Hue
+    - Hue Bulb
+    - Hue Bridge
+    - Hue Go
+    - Hue Lightstrip
+    - LIFX
+    - LIFX Bulb
+    - LIFX Strip
+    - LIFX Beam
+    - LIFX Tile
+    - TP-Link Kasa
+    - Kasa Smart Bulb
+    - KL110
+    - KL130
+    - KL50
+    - Sengled
+    - Sengled Smart Bulb
+    - Sengled Element
+  Enchufes Inteligentes:
+    - TP-Link Kasa
+    - Kasa Smart Plug
+    - HS100
+    - HS105
+    - HS107
+    - Belkin WeMo
+    - WeMo Insight
+    - WeMo Mini
+    - WeMo Dimmer
+    - Amazon Smart Plug
+    - Amazon Smart Plug
+    - iHome Smart Plug
+    - iHome ISP6X
+    - ISP8X
+  Cámaras de Seguridad:
+    - Ring
+    - Ring Stick Up Cam
+    - Ring Spotlight Cam
+    - Ring Indoor Cam
+    - Ring Floodlight Cam
+    - Arlo
+    - Arlo Pro
+    - Arlo Ultra
+    - Arlo Q
+    - Arlo Baby
+    - Wyze Cam
+    - Wyze Cam v3
+    - Wyze Cam Pan
+    - Wyze Cam Outdoor
+    - Nest Cam
+    - Nest Cam Indoor
+    - Nest Cam Outdoor
+    - Nest Cam IQ
+  Cerraduras Inteligentes:
+    - August Smart Lock
+    - August Lock
+    - ASL-03
+    - August Smart Lock Pro
+    - Yale Assure
+    - Yale Assure Lock
+    - YRD256
+    - YRD226
+    - Schlage Encode
+    - Schlage BE489WB
+    - Kwikset Kevo
+    - Kevo Smart Lock
+    - Kevo Convert
+  Relojes Inteligentes y Rastreador de Actividad:
+    - Fitbit
+    - Fitbit Versa
+    - Versa 2
+    - Versa 3
+    - Fitbit Charge
+    - Charge 4
+    - Fitbit Inspire
+    - Inspire 2
+    - Fitbit Sense
+    - Apple Watch
+    - Apple Watch Series
+    - Watch SE
+    - Garmin
+    - Garmin Forerunner
+    - Forerunner 945
+    - Forerunner 245
+    - Garmin Fenix
+    - Fenix 6
+    - Fenix 5
+  Básculas Inteligentes:
+    - Withings
+    - Withings Body+
+    - Withings Body Cardio
+    - Withings Body
+    - Fitbit Aria
+    - Fitbit Aria
+    - Aria 2
+    - Garmin Index
+    - Garmin Index S2
+  Sistemas de Información y Entretenimiento:
+    - Android Auto
+    - Android Auto
+    - Apple CarPlay
+    - CarPlay
+    - Tesla
+    - Tesla Model S
+    - Model 3
+    - Model X
+    - Model Y
+  Rastreo y Monitoreo:
+    - Tile
+    - Tile Mate
+    - Tile Pro
+    - Tile Slim
+    - Tile Sticker
+    - TrackR
+    - TrackR Bravo
+    - TrackR Pixel
+    - Chipolo
+    - Chipolo One
+    - Chipolo Plus
+  Routers y Extensores de Señal:
+    - Google Nest Wifi
+    - Nest Wifi
+    - Nest Wifi Point
+    - TP-Link Deco
+    - Deco M5
+    - Deco M9 Plus
+    - Deco X20
+    - Netgear Orbi
+    - Orbi RBK50
+    - Orbi RBK852
+    - Orbi RBK753
+    - Eero
+    - Eero Pro
+    - Eero 6
+  Cámaras de Vigilancia:
+    - Nest Cam
+    - Nest Cam Indoor
+    - Nest Cam Outdoor
+    - Nest Cam IQ
+    - Nest Cam Battery
+    - Blink
+    - Blink XT2
+    - Blink Mini
+    - Blink Outdoor
+    - Blink Indoor
+  Electrodomésticos Inteligentes:
+    - Samsung Smart Fridge
+    - Family Hub
+    - RF28R7551SR
+    - RF23M8570SR
+    - LG Smart Washer
+    - LG ThinQ Washer
+    - WM3900HBA
+    - WM8100HVA
+    - Roomba
+    - Roomba i7+
+    - Roomba 980
+    - Roomba s9+
+    - Ecovacs Deebot
+    - Deebot N79S
+    - Deebot Ozmo T8
+  Sensores y Monitores:
+    - Nest Protect
+    - Nest Protect
+    - S3003LWES
+    - Awair
+    - Awair Element
+    - Awair 2nd Edition
+    - Netatmo
+    - Netatmo Weather Station
+    - Netatmo Smart Home
+  Dispositivos de Cocina Inteligente:
+    - Anova Precision Cooker
+    - Anova Nano
+    - Anova Pro
+    - Anova Precision Cooker WiFi
+    - Instant Pot Smart
+    - Instant Pot Duo
+    - Instant Pot Ultra
+    - Instant Pot Max
+    - Joule Sous Vide
+    - Joule Sous Vide
+  Cerraduras Inteligentes Adicionales:
+    - Eufy Smart Lock
+    - Eufy Security Smart Lock Touch
+    - T8510J11
+    - Level Lock
+    - Level Bolt
+    - Level Lock Touch Edition
+  Otros Dispositivos de Hogar Inteligente:
+    - SimpliSafe
+    - SimpliSafe Base Station
+    - SimpliSafe Camera
+    - Abode
+    - Abode Iota
+    - Abode Smart Security Kit
+    - Canary
+    - Canary Pro
+    - Canary View
+  Sensores de Movimiento y Monitores de Ambiente:
+    - Ecobee Smart Sensor
+    - Ecobee Room Sensor
+    - Ecobee SmartSensor for Doors and Windows
+    - SmartThings Sensor
+    - SmartThings Motion Sensor
+    - SmartThings Multipurpose Sensor
+  wireless speakers:
+    - Bose SoundLink Revolve
+    - SoundLink Revolve
+    - Bose SoundLink Revolve+
+    - SoundLink Revolve+
+    - Bose SoundLink Color II
+    - SoundLink Color II
+    - Bose SoundLink Micro
+    - SoundLink Micro
+    - Bose Home Speaker 500
+    - Home Speaker 500
+    - Bose Portable Home Speaker
+    - Portable Home Speaker
+    - JBL
+    - JBL Flip 5
+    - JBL Charge 4
+    - JBL Pulse 4
+    - JBL Xtreme 2
+    - JBL Boombox
+    - JBL Clip 3
+    - JBL PartyBox 100
+    - JBL PartyBox 300
+    - Sony
+    - Sony SRS-XB43
+    - SRS-XB43
+    - SRSXB43
+    - Sony SRS-XB33
+    - SRS-XB33
+    - SRSXB33
+    - Sony SRS-XB23
+    - SRS-XB23
+    - SRSXB23
+    - Sony SRS-XB12
+    - SRS-XB12
+    - SRSXB12
+    - Sony SRS-RA3000
+    - SRS-RA3000
+    - SRSRA3000
+    - Sony SRS-RA5000
+    - SRS-RA5000
+    - SRSRA5000
+    - Sony SRS-XG500
+    - SRS-XG500
+    - SRSXG500
+    - Sony GTK-XB7
+    - GTK-XB7
+    - GTKXB7
+    - Ultimate Ears (UE)
+    - UE Boom 3
+    - Boom 3
+    - UE Megaboom 3
+    - Megaboom 3
+    - UE Wonderboom 2
+    - Wonderboom 2
+    - UE Hyperboom
+    - Hyperboom
+    - Bang & Olufsen
+    - B&O Beoplay A1
+    - Beoplay A1
+    - B&O Beoplay P2
+    - Beoplay P2
+    - B&O Beosound A1 2nd Gen
+    - Beosound A1
+    - B&O Beolit 17
+    - Beolit 17
+    - B&O Beoplay M5
+    - Beoplay M5
+    - B&O Beosound Explore
+    - Beosound Explore
+    - Sonos
+    - Sonos Move
+    - Sonos Roam
+    - Anker Soundcore
+    - Soundcore Flare 2
+    - Soundcore Motion+
+    - Soundcore Rave Mini
+    - Soundcore Icon
+    - Soundcore Trance
+    - Harman Kardon
+    - Harman Kardon Onyx Studio 6
+    - Onyx Studio 6
+    - Harman Kardon Citation 200
+    - Citation 200
+    - Harman Kardon Go + Play
+    - Go + Play
+    - Harman Kardon Aura Studio 3
+    - Aura Studio 3
+    - Marshall
+    - Marshall Kilburn II
+    - Kilburn II
+    - Marshall Stockwell II
+    - Stockwell II
+    - Marshall Tufton
+    - Tufton
+    - Marshall Emberton
+    - Emberton
+    - Marshall Woburn II
+    - Woburn II
+    - Marshall Stanmore II
+    - Tribit MaxSound Plus
+    - MaxSound Plus
+    - Tribit StormBox
+    - StormBox
+    - Vifa Oslo
+    - Libratone Zipp 2
+    - Zipp 2
+    - Denon Envaya DSB-250BT
+    - Envaya DSB-250BT
+    - Fugoo Sport 2.0
+    - Fugoo Sport
+    - Doss SoundBox
+    - SoundBox
+    - Altec Lansing Mini H2O
+    - Mini H2O
+    - Klipsch Groove
+    - Cowin E7
+    - Creative Muvo 2C
+    - Muvo 2C
+    - OontZ Angle 3
+    - Angle 3
+    - Panacom
+    - SP3049F
+    - Panacom SP-3050
+    - SP-3050
+    - SP3050
+    - Panacom SP-3070
+    - SP-3070
+    - SP3070
+    - Panacom SP-3080
+    - SP-3080
+    - SP3080
+    - Panacom SP-3100
+    - SP-3100
+    - SP3100
+    - Panacom SP-3120
+    - SP-3120
+    - SP3120
+    - Panacom SP-3150
+    - SP-3150
+    - SP3150
+    - Panacom SP-3160
+    - SP-3160
+    - SP3160
+    - Panacom SP-3180
+    - SP-3180
+    - SP3180
+    - Panacom SP-3200
+    - SP-3200
+    - SP3200
+    - Panacom SP-3220
+    - SP-3220
+    - SP3220
+    - Panacom SP-3240
+    - SP-3240
+    - SP3240
+    - Panacom SP-3260
+    - SP-3260
+    - SP3260
+    - Panacom SP-3280
+    - SP-3280
+    - SP3280
+    - Panacom SP-3300
+    - SP-3300
+    - SP3300
+    - Panacom SP-3320
+    - SP-3320
+    - SP3320
+    - Panacom SP-3340
+    - SP-3340
+    - SP3340
+    - Panacom SP-3360
+    - SP-3360
+    - SP3360
+    - Panacom SP-3380
+    - SP-3380
+    - SP3380
+    - Panacom SP-3400
+    - SP-3400
+    - SP3400
+    - Panacom SP-3420
+    - SP-3420
+    - SP3420
+    - Panacom SP-3440
+    - SP-3440
+    - SP3440
+    - Panacom SP-3460
+    - SP-3460
+    - SP3460
+    - Panacom SP-3480
+    - SP-3480
+    - SP3480
+    - Panacom SP-3500
+    - SP-3500
+    - SP3500
+    - Panacom SP-3520
+    - SP-3520
+    - SP3520
+    - Panacom SP-3540
+    - SP-3540
+    - SP3540
+    - Panacom SP-3560
+    - SP-3560
+    - SP3560
+    - Panacom SP-3580
+    - SP-3580
+    - SP3580
+    - Panacom SP-3600
+    - SP-3600
+    - SP3600
+    - Panacom SP-3620
+    - SP-3620
+    - SP3620
+    - Panacom SP-3640
+    - SP-3640
+    - SP3640
+    - Panacom SP-3660
+    - SP-3660
+    - SP3660
+    - Panacom SP-3680
+    - SP-3680
+    - SP3680
+    - Panacom SP-3700
+    - SP-3700
+    - SP3700
+    - Panacom SP-3720
+    - SP-3720
+    - SP3720
+    - Panacom SP-3740
+    - SP-3740
+    - SP3740
+    - Panacom SP-3760
+    - SP-3760
+    - SP3760
+    - Panacom SP-3780
+    - SP-3780
+    - SP3780
+    - Panacom SP-3800
+    - SP-3800
+    - SP3800
+    - Panacom SP-3820
+    - SP-3820
+    - SP3820
+    - Panacom SP-3840
+    - SP-3840
+    - SP3840
+    - Panacom SP-3860
+    - SP-3860
+    - SP3860
+    - Panacom SP-3880
+    - SP-3880
+    - SP3880
+    - Panacom SP-3900
+    - SP-3900
+    - SP3900
+    - Panacom SP-3920
+    - SP-3920
+    - SP3920
+    - Panacom SP-3940
+    - SP-3940
+    - SP3940
+    - Panacom SP-3960
+    - SP-3960
+    - SP3960
+    - Panacom SP
+    - SP3980
+    - Panacom SP-4000
+    - SP-4000
+    - SP4000
+  other:
+    - wireless headphones
+    - wireless keyboards
+    - wireless mice
+    - car kits
+    - printers
+    - file transfer
+    - gaming
+    
+# Paths
+mac_file: "standard_mac.txt"
