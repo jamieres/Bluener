@@ -59,4 +59,4 @@ python gui.py
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-jamieres-at-gmail-dot-com
+NOTE: It is a working version but it is still in progress. Any question just write to me (jamieres-at-gmail-dot-com)
